@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>irritable-intestin</title>
+    <link href="https://ojo98154.github.io/feed.xml" rel="self" />
+    <link href="https://ojo98154.github.io" />
+    <updated>2019-11-23T00:00:48+01:00</updated>
+    <author>
+        <name>Irritable Intestin</name>
+    </author>
+    <id>https://ojo98154.github.io</id>
+
+    <entry>
+        <title>hey bitch</title>
+        <author>
+            <name>Irritable Intestin</name>
+        </author>
+        <link href="https://ojo98154.github.io/hey-bitch.html"/>
+        <id>https://ojo98154.github.io/hey-bitch.html</id>
+
+        <updated>2019-11-22T23:52:54+01:00</updated>
+            <summary>
+                <![CDATA[
+                    suce pute
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                suce pute
+            ]]>
+        </content>
+    </entry>
+</feed>

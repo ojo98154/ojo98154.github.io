@@ -1,0 +1,27 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "irritable-intestin",
+    "description": "",
+    "home_page_url": "https://ojo98154.github.io",
+    "feed_url": "https://ojo98154.github.io/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Irritable Intestin"
+    },
+    "items": [
+        {
+            "id": "https://ojo98154.github.io/hey-bitch.html",
+            "url": "https://ojo98154.github.io/hey-bitch.html",
+            "title": "hey bitch",
+            "summary": "suce pute",
+            "content_html": "suce pute",
+            "author": {
+                "name": "Irritable Intestin"
+            },
+            "tags": [
+            ],
+            "date_published": "2019-11-22T23:52:54+01:00",
+            "date_modified": "2019-11-22T23:52:54+01:00"
+        }
+    ]
+}
